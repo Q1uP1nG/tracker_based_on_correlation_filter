@@ -1,6 +1,6 @@
 # Simple Correlation Filter Tracker
 
-基于 Python + OpenCV 实现的简易目标跟踪程序，适合作为课程实验代码、算法练习代码或个人存档项目。
+基于 Python + OpenCV 实现的简易目标跟踪程序，适合作为课程实验代码、算法练习代码。
 
 包含两个核心文件：
 
